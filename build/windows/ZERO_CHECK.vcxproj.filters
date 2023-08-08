@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Personal\BootCampFlutter\proyectom2tarjetapresentacion\build\windows\CMakeFiles\92ea0e4ed94559fc5edc133603b704d9\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{64D7B19B-15D1-3843-B648-1B16A4F83C79}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

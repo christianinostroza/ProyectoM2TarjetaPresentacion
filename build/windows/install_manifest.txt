@@ -1,0 +1,9 @@
+D:/Personal/BootCampFlutter/proyectom2tarjetapresentacion/build/windows/runner/Debug/data/icudtl.dat
+D:/Personal/BootCampFlutter/proyectom2tarjetapresentacion/build/windows/runner/Debug/flutter_windows.dll
+D:/Personal/BootCampFlutter/proyectom2tarjetapresentacion/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/Personal/BootCampFlutter/proyectom2tarjetapresentacion/build/windows/runner/Debug/data/flutter_assets/AssetManifest.smcbin
+D:/Personal/BootCampFlutter/proyectom2tarjetapresentacion/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/Personal/BootCampFlutter/proyectom2tarjetapresentacion/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Personal/BootCampFlutter/proyectom2tarjetapresentacion/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/Personal/BootCampFlutter/proyectom2tarjetapresentacion/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/Personal/BootCampFlutter/proyectom2tarjetapresentacion/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
